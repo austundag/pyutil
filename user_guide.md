@@ -62,7 +62,7 @@ Landing Page
 Patient Web Portal landing page provides a brief summary of the
 application and provides two functionalities: Enroll and Login.
 
-!(images/000019.png)
+![phix\_landing](images/000019.png)
 
 Enrollment Page
 
@@ -93,8 +93,7 @@ Address and phone number become the part of user profile which can be
 managed by the patient. Once Enroll button is selected further steps in
 the enrollment process is shown in the Next Steps page.
 
-![C:\\Users\\austundag004\\Downloads\\phix\_enrollment next
-strep.png](images/000010.png)
+![C:\\Users\\austundag004\\Downloads\\phix\_enrollment\_next\_strep.png](images/000010.png)
 
 The instructions on this page conclude the PHIX part of the enrollment
 process. At this point user is registered in the PHIX system but not

@@ -75,7 +75,7 @@ signup form which requires a valid e-mail, username and password.
 
  
 
-![C:\\Users\\austundag004\\Downloads\\phix\_signup\_empty.png](images/000012.png)
+![phix\_signup\_empty.png](images/000012.png)
 
 Username and password entered in this form can later be changed only by
 PHIX administrators. E-mail is part of the user profile that can later
@@ -83,7 +83,7 @@ be changed. Once the signup form is accepted the enrollment form is
 launched. In this form users are required to enter additional
 demographic information.
 
-![C:\\Users\\austundag004\\Downloads\\phix\_enrollmentform.png](images/000026.png)
+![phix\_enrollmentform.png](images/000026.png)
 
 All the information on this form can be updated until the enrollment
 process is approved by a trusted third party. Once the enrollment is
@@ -93,7 +93,7 @@ Address and phone number become the part of user profile which can be
 managed by the patient. Once Enroll button is selected further steps in
 the enrollment process is shown in the Next Steps page.
 
-![C:\\Users\\austundag004\\Downloads\\phix\_enrollment\_next\_strep.png](images/000010.png)
+![phix\_enrollment\_next\_strep.png](images/000010.png)
 
 The instructions on this page conclude the PHIX part of the enrollment
 process. At this point user is registered in the PHIX system but not
@@ -109,7 +109,7 @@ but have only access to the Enrollment form and Next Steps form.
 
 Patient Web Portal Pages
 
-![C:\\Users\\austundag004\\Downloads\\phix\_patient\_home.png](images/000004.png)
+![phix\_patient\_home.png](images/000004.png)
 
 There are six pages in the Web Portal: Health, Messages, Store Records,
 Privacy and Profile. Each of these pages is described in the coming
@@ -131,7 +131,7 @@ medications, problems and vitals. You can select any tab by clicking on
 the names on the left. In the following figure the immunizations tab is
 shown.
 
-![C:\\Users\\austundag004\\Downloads\\PHIX.png](images/000001.png)
+![PHIX.png](images/000001.png)
 
 All the health records in Health page is added from Stored Records page
 as described later in this document. When first added, each piece of the
@@ -147,12 +147,12 @@ Messages Page
 This page shows user’s Inbox and Outbox of communications with health
 care providers. In addition users compose new messages here.
 
-![C:\\Users\\austundag004\\Downloads\\phix\_inbox.png](images/000000.png)
+![phix\_inbox.png](images/000000.png)
 
 All the messages in Inbox and Output lists are clickable. When user
 clicks on a particular message an expanded view of the message is shown.
 
-![C:\\Users\\austundag004\\Downloads\\phix\_message\_detail.png](images/000030.png)
+![phix\_message\_detail.png](images/000030.png)
 
 Expanded view shows the content of the message and the attached medical
 records. Attached medical records are downloaded here by clicking on an
@@ -166,7 +166,7 @@ two types of attachments: files and health records. File attachments are
 medical record files. Currently only Blue Button format (CCDA) is
 supported.
 
-![C:\\Users\\austundag004\\Downloads\\phix\_compose\_message\_1.png](images/000034.png)
+![phix\_compose\_message\_1.png](images/000034.png)
 
 Medical record attachments are directly created from patient’s overall
 medical record that is available in the Health page. User can specify
@@ -174,13 +174,13 @@ specific sections of the health record or specify all. The specified
 records are converted to Blue Button (CCDA) format and delivered to the
 provider as an attached file.
 
-![C:\\Users\\austundag004\\Downloads\\phix\_compose\_message\_2.png](images/000013.png)
+![phix\_compose\_message\_2.png](images/000013.png)
 
 Once user starts to write the clinician’s name a drop down menu is shown
 with all the available providers in PHIX database. User can choose any
 provider in the list.
 
-![C:\\Users\\austundag004\\Downloads\\phix\_compose\_message\_3.png](images/000016.png)
+![phix\_compose\_message\_3.png](images/000016.png)
 
 Once the provider is selected the address is found from the database and
 shown on the form and message is ready to be sent to the selected
@@ -189,13 +189,13 @@ Messages page.
 
  
 
-![C:\\Users\\austundag004\\Downloads\\phix\_compose\_message\_4.png](images/000009.png)
+![phix\_compose\_message\_4.png](images/000009.png)
 
 All sent messages are shown in Output tab. User can click on a specific
 message to see the details and remove messages when they are no longer
 needed.
 
-![C:\\Users\\austundag004\\Downloads\\phix\_output-tab.png](images/000005.png)
+![phix\_output-tab.png](images/000005.png)
 
 Stored Records Page
 
@@ -209,7 +209,7 @@ page as discussed previously.
 
  
 
-![C:\\Users\\austundag004\\Downloads\\phix\_stored\_records
+![phix\_stored\_records
 (2).png](images/000025.png)
 
  
@@ -221,7 +221,7 @@ supported.
 
  
 
-![C:\\Users\\austundag004\\Downloads\\phix\_upload\_page.png](images/000029.png)
+![phix\_upload\_page.png](images/000029.png)
 
  
 
@@ -231,7 +231,7 @@ record to the master record or delete the record.
 
  
 
-![C:\\Users\\austundag004\\Downloads\\phix\_stored\_record
+![phix\_stored\_record
 actions.png](images/000011.png)
 
  
@@ -242,7 +242,7 @@ includes the same content that the master health record.
 
  
 
-![C:\\Users\\austundag004\\Downloads\\phix\_preview.png](images/000022.png)
+![phix\_preview.png](images/000022.png)
 
  
 
@@ -266,7 +266,7 @@ who can use the account on user’s behalf.
 
  
 
-![C:\\Users\\austundag004\\Downloads\\phix\_privacy.png](images/000017.png)
+![phix\_privacy.png](images/000017.png)
 
 Access Requests lists the names of the providers who requested the
 access and the specific portion of the health record that is requested.
@@ -274,20 +274,20 @@ The requests that are listed on this page are initiated from Clinician
 Front-End Exchange page which is described later in this document. Users
 can click on a request in the list to grant or deny access.
 
-![C:\\Users\\austundag004\\Downloads\\phix\_grant\_access\_exchange.png](images/000033.png)
+![phix\_grant\_access\_exchange.png](images/000033.png)
 
 When patient grants or denies a particular request a message is sent to
 the requesting provider and the request is removed from the Access
 Request list. If the request is granted the Granted Access list is
 updated.
 
-![C:\\Users\\austundag004\\Downloads\\PHIX (3).png](images/000002.png)
+![PHIX (3).png](images/000002.png)
 
 Healthcare provider access grants remain valid until the patient removes
 the access. Each item in the Granted Access list is clickable to bring
 Update Access form.
 
-![C:\\Users\\austundag004\\Downloads\\PHIX (4).png](images/000021.png)
+![PHIX (4).png](images/000021.png)
 
 Grant Access button on the Privacy page launches the Grant Access form
 where the user can select another user and grant full access to the her
@@ -295,14 +295,14 @@ account. Users who are granted access have access to all the
 functionality as the original users. Typically such users are closely
 related such as parent and child.
 
-![C:\\Users\\austundag004\\Downloads\\PHIX (1).png](images/000032.png)
+![PHIX (1).png](images/000032.png)
 
 After login users can see all the other users for whom have been granted
 access from the drop down menu near the account holder name on the upper
 right corner. This is also where users can switch accounts to
 communicate with health care providers on the behalf of another user.
 
-![C:\\Users\\austundag004\\Downloads\\PHIX (2).png](images/000028.png)
+![PHIX (2).png](images/000028.png)
 
 Profile Page
 
@@ -313,7 +313,7 @@ numbers.
 
  
 
-![C:\\Users\\austundag004\\Downloads\\phix\_profile.png](images/000024.png)
+![phix\_profile.png](images/000024.png)
 
 Verification Page
 
@@ -327,9 +327,9 @@ everything checks and Approve is clicked the patient is fully registered
 and can start using PHIX. If documents are not verified the registration
 can be rejected.
 
-![C:\\Users\\austundag004\\Downloads\\phix\_verification.png](images/000020.png)
+![phix\_verification.png](images/000020.png)
 
-![C:\\Users\\austundag004\\Downloads\\phix\_approve\_reject.png](images/000031.png)
+![phix\_approve\_reject.png](images/000031.png)
 
  
 
@@ -345,7 +345,7 @@ The landing page for the clinician page includes a summary of
 functionalities and a Login button. Login credentials can only be reset
 by PHIX administrators.
 
-![C:\\Users\\austundag004\\Downloads\\clinician\_welcome.png](images/000018.png)
+![clinician\_welcome.png](images/000018.png)
 
 After login PHIX Clinician Portal is launched. Here clinicians can
 manage all their communications with patients. There are three pages in
@@ -354,7 +354,7 @@ name is displayed on the upper right with a drop down menu. This menu
 includes Logout menu item and also includes the names of all the
 patients for whom the provider has access.
 
-![C:\\Users\\austundag004\\Downloads\\PHIX (5).png](images/000015.png)
+![PHIX (5).png](images/000015.png)
 
 Validate Page
 
@@ -368,7 +368,7 @@ of birth and DIRECT address.
 
  
 
-![C:\\Users\\austundag004\\Downloads\\phix\_clinfe-verify.png](images/000023.png)
+![phix\_clinfe-verify.png](images/000023.png)
 
  
 
@@ -389,7 +389,7 @@ patient lookup form to select a patient.
 
  
 
-![C:\\Users\\austundag004\\Downloads\\phix\_clinfe-exchange.png](images/000007.png)
+![phix\_clinfe-exchange.png](images/000007.png)
 
  
 
@@ -399,7 +399,7 @@ patient.
 
  
 
-![C:\\Users\\austundag004\\Downloads\\phix\_clincfe\_requestaccess.png](images/000014.png)
+![phix\_clincfe\_requestaccess.png](images/000014.png)
 
  
 
@@ -420,7 +420,7 @@ Messages Page
 
  
 
-![C:\\Users\\austundag004\\Downloads\\phix\_clinfe\_inbox.png](images/000003.png)
+![phix\_clinfe\_inbox.png](images/000003.png)
 
 This page is the default one when a clinician logs in to Clinician
 front-end. Here clinicians can see their Inbox and Outbox which list all
@@ -430,7 +430,7 @@ to create and send new messages to patients.
 
  
 
-![C:\\Users\\austundag004\\Downloads\\phix\_clinfe\_compose\_message.png](images/000027.png)
+![phix\_clinfe\_compose\_message.png](images/000027.png)
 
  
 
@@ -452,6 +452,6 @@ systems which support this format.
 
  
 
-![C:\\Users\\austundag004\\Downloads\\phix\_clinfe\_detail.png](images/000006.png)
+![phix\_clinfe\_detail.png](images/000006.png)
 
  
